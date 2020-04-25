@@ -1,0 +1,62 @@
+h1{
+    font-size: larger;
+    color: darkred;
+}
+
+table,th,td
+{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+
+.primero 
+{
+ background-color: white;
+}
+
+.segundo{
+    background-color: gainsboro;
+}
+
+.tercero{
+    background-color:lightgray;
+}
+
+.cuarto{
+    background-color:silver;
+}
+
+.quinto{
+    background-color:darkgray;
+}
+
+.sexto{
+    background-color:gray;
+}
+
+.septimo{
+    background-color:dimgray;
+}
+
+.octavo{
+    background-color: lightslategray;
+    font: white;
+}
+
+.noveno{
+    background-color:slategray;
+    
+}
+
+.decimo{
+    background-color: black;
+    color: white;
+}
+
+body{
+
+font: normal small-caps italic 10px/3s Arial;
+ ;
+}
+
